@@ -1,0 +1,11 @@
+.logo {
+    width: 220px ;
+}
+
+header, footer {
+    background: #808080;
+}
+footer a {
+    color:black;
+}
+*{text-transform: capitalize;}
